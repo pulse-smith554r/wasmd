@@ -46,7 +46,7 @@ require (
 	github.com/cometbft/cometbft v0.38.17
 	github.com/cosmos/cosmos-db v1.1.3
 	github.com/cosmos/ibc-go/v10 v10.3.0
-	github.com/distribution/reference v0.5.0
+	github.com/distribution/reference v0.6.0
 	github.com/rs/zerolog v1.34.0
 	github.com/spf13/viper v1.21.0
 	golang.org/x/sync v0.17.0
